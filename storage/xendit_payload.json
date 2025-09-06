@@ -1,0 +1,23 @@
+{
+    "id": "68b64efffe6f38c5b6353be1",
+    "external_id": "INV-1756778238-68b64efe333cf",
+    "user_id": "68a9b6a7863d4372481b3583",
+    "payment_method": "BANK_TRANSFER",
+    "status": "PAID",
+    "merchant_name": "Jaya Kost",
+    "amount": 1080000,
+    "paid_amount": 1080000,
+    "bank_code": "MANDIRI",
+    "paid_at": "2025-09-02T01:58:02.000Z",
+    "payer_email": "user3@gmail.com",
+    "description": "Pembayaran DP 30% Sewa Kost C1 selama 3 bulan.",
+    "is_high": false,
+    "success_redirect_url": "https:\/\/d246342e894d.ngrok-free.app\/booking\/success?external_id=INV-1756778238-68b64efe333cf",
+    "failure_redirect_url": "https:\/\/d246342e894d.ngrok-free.app\/booking\/fail",
+    "created": "2025-09-02T01:57:20.029Z",
+    "updated": "2025-09-02T01:58:03.372Z",
+    "currency": "IDR",
+    "payment_channel": "MANDIRI",
+    "payment_destination": "8860873556717",
+    "payment_id": "80676cdf-b291-474f-a439-1d3789a81e07"
+}
