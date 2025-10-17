@@ -1,0 +1,23 @@
+{
+    "id": "68df85390119a81076d28ef2",
+    "external_id": "INV-1759479094-68df8536aeb4c",
+    "user_id": "68a9b6a7863d4372481b3583",
+    "payment_method": "BANK_TRANSFER",
+    "status": "PAID",
+    "merchant_name": "Jaya Kost",
+    "amount": 300000,
+    "paid_amount": 300000,
+    "bank_code": "CIMB",
+    "paid_at": "2025-10-03T08:11:50.000Z",
+    "payer_email": "user212@gmail.com",
+    "description": "Pembayaran DP 30% Sewa Kost A1 selama 1 bulan.",
+    "is_high": false,
+    "success_redirect_url": "https:\/\/1eada08d3487.ngrok-free.app\/booking\/success?external_id=INV-1759479094-68df8536aeb4c",
+    "failure_redirect_url": "https:\/\/1eada08d3487.ngrok-free.app\/booking\/fail",
+    "created": "2025-10-03T08:11:37.572Z",
+    "updated": "2025-10-03T08:11:50.487Z",
+    "currency": "IDR",
+    "payment_channel": "CIMB",
+    "payment_destination": "9349056091680",
+    "payment_id": "eee34f45-b638-4018-9d39-f483cbb5f50d"
+}
